@@ -1,2 +1,7 @@
 # Multiple Choice Quiz
-## Multiple choice quiz for ENGL 203 Final Creative Research Project
+This is a multiple choice quiz for my English 203 Creative Research Project. 
+
+- [x] Function to retreive form data
+- [x] Added questions
+- [x] Reset button
+- [x] Submit button (modal)
