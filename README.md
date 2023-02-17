@@ -5,3 +5,5 @@ This is a multiple choice quiz for my English 203 Creative Research Project.
 - [x] Added questions
 - [x] Reset button
 - [x] Submit button (modal)
+
+- [x] Reformat / Add more in the form of comments to make it easier for others to understand.
